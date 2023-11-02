@@ -1,0 +1,17 @@
+.active{
+    text-align: center;
+    display:inline-block;
+    -webkit-text-fill-color: rgb(242, 255, 0);
+    font-weight: bold;
+    font-size:18px;
+    transform: translateY(5px);
+}
+input{
+    color:black;
+}
+.contcat-us-place-box:hover{
+    transform: translateY(10px);
+}
+.contcat-us-place-box{
+    transition:all 0.6s;
+}
